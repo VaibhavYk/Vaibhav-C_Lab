@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    // a-first number b-seconde number s-sum of the numbers
     int a, b, s;
     printf("Enter the first number:");
     scanf("%d",&a);
@@ -11,4 +12,5 @@ int main()
 
     printf("Sum of numbers:%d", s);
     return 0;
+
 }
